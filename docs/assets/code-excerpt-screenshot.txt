@@ -1,7 +1,10 @@
+Repository: differential-equations-from-zero
+Generated: 2026-03-03
+
+Source: README.md
+
 # Differential Equations From Zero
-
 a series of .md files building a graphical relationship of how the working units behave with each other
-
 ## Documentation & Proof
 - Project narrative: [docs/PROJECT_NARRATIVE.md](docs/PROJECT_NARRATIVE.md)
 - CI guard: [.github/workflows/documentation-proof.yml](.github/workflows/documentation-proof.yml)
