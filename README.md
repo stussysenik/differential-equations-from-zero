@@ -1,8 +1,19 @@
-# Differential Equations From Zero
+# differential-equations-from-zero
 
 a series of .md files building a graphical relationship of how the working units behave with each other
 
-## Documentation & Proof
-- Project narrative: [docs/PROJECT_NARRATIVE.md](docs/PROJECT_NARRATIVE.md)
-- CI guard: [.github/workflows/documentation-proof.yml](.github/workflows/documentation-proof.yml)
-- This project documentation emphasizes user journey, design methodology, progress, tech stack, key concepts, and implementation evidence.
+
+
+## About
+
+🧮 **Math / Science** built with Multi-language.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
+
+---
+
+*Built by [@stussysenik](https://github.com/stussysenik)*
